@@ -6,6 +6,12 @@ So I created some scripts to help with the setup of those.
 
 Use them however you see fit. :)
 
+== IPv6 range
+
+The scripts add the IPv6 addresses `::7f00:1/104` to `::7f00:f/104` onto the adapter.
+
+Windows presents them as `::127.0.0.1` but they work as intended.
+
 == Licence
 
 Unlicense see xref:./LICENSE[LICENSE] file.
