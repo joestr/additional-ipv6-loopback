@@ -1,0 +1,13 @@
+= Additional IPv6 loopback addresses
+
+While I expermientend with IPv6 I needed an additional loopback address.
+
+So I created some scripts to help with the setup of those.
+
+Use them however you see fit. :)
+
+== Licence
+
+Unlicense see xref:./LICENSE[LICENSE] file.
+
+SPDX identifier: `Unlicense`
